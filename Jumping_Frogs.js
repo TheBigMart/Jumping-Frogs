@@ -33,11 +33,11 @@ let shaking =true
 //Creates named variables that can be turned on and off with future actions 
 
 function preload() {
-  imgOne = loadImage('derpy frog.png');
-  imgTwo = loadImage('derpy frog 2.png');
+  imgOne = loadImage('derpy_frog.png');
+  imgTwo = loadImage('derpy_frog_2.png');
   imgThree = loadImage('swamp.jpeg');
-  imgFour = loadImage('bin no lid.png');
-  imgFive = loadImage('bin lid.png');
+  imgFour = loadImage('bin_no_lid.png');
+  imgFive = loadImage('bin_lid.png');
   fly = loadImage('fly.png');
 }
 // Give the five variables a picture to be plugged in the following code
